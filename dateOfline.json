@@ -1,0 +1,134 @@
+{
+  "dateMagazin": [
+    {
+      "nume": "camasa de satin",
+      "categorie": "camasi",
+      "pret": "79.99 lei"
+    },
+    {
+      "nume": "camasa cambrata",
+      "categorie": "camasi",
+      "pret": "49.90 lei"
+    },
+    {
+      "nume": "camasa din amestec de bumbac",
+      "categorie": "camasi",
+      "pret": "79.99 lei"
+    },
+    {
+      "nume": "camasa tip bluza din flanel",
+      "categorie": "camasi",
+      "pret": "79.99 lei"
+    },
+    {
+      "nume": "camasa de in cu broderie",
+      "categorie": "camasi",
+      "pret": "89.99 lei"
+    },
+    {
+      "nume": "pantaloni de catifea",
+      "categorie": "pantaloni",
+      "pret": "130 lei"
+    },
+    {
+      "nume": "pantaloni cu talie inalta",
+      "categorie": "pantaloni",
+      "pret": "60.90 lei"
+    },
+    {
+      "nume": "pantaloni din velur",
+      "categorie": "pantaloni",
+      "pret": "99.99 lei"
+    },
+    {
+      "nume": "pantaloni eleganti",
+      "categorie": "pantaloni",
+      "pret": "179.99 lei"
+    },
+    {
+      "nume": "pantaloni cargo",
+      "categorie": "pantaloni",
+      "pret": "189.99 lei"
+    },
+    {
+      "nume": "pantaloni de ski evazati",
+      "categorie": "pantaloni",
+      "pret": "199.99 lei"
+    },
+    {
+      "nume": "pulover tricotat",
+      "categorie": "cardigane si pulovere",
+      "pret": "99.99 lei"
+    },
+    {
+      "nume": "cardigan lung",
+      "categorie": "cardigane si pulovere",
+      "pret": "139.99 lei"
+    },
+    {
+      "nume": "pulover cu guler rulat",
+      "categorie": "cardigane si pulovere",
+      "pret": "129.99 lei"
+    },
+    {
+      "nume": "pulover cu margele",
+      "categorie": "cardigane si pulovere",
+      "pret": "99.99 lei"
+    },
+    {
+      "nume": "pulover supradimensionat",
+      "categorie": "cardigane si pulovere",
+      "pret": "89.99 lei"
+    },
+    {
+      "nume": "rochie reiata cu guler inalt",
+      "categorie": "rochii",
+      "pret": "99.99 lei"
+    },
+    {
+      "nume": "rochie cu paiete",
+      "categorie": "rochii",
+      "pret": "159.99 lei"
+    },
+    {
+      "nume": "rochie tricotata cu margele",
+      "categorie": "rochii",
+      "pret": "169.99 lei"
+    },
+    {
+      "nume": "rochie mulata plisata",
+      "categorie": "rochii",
+      "pret": "229.99 lei"
+    },
+    {
+      "nume": "rochie de molton cu gluga",
+      "categorie": "rochii",
+      "pret": "109.99 lei"
+    },
+    {
+      "nume": "jacheta vatuita cu gluga",
+      "categorie": "jachete si paltoane",
+      "pret": "279.99 lei"
+    },
+    {
+      "nume": "jacheta pufoasa",
+      "categorie": "jachete si paltoane",
+      "pret": "349.99 lei"
+    },
+    {
+      "nume": "jacheta cu puf",
+      "categorie": "jachete si paltoane",
+      "pret": "299.99 lei"
+    },
+    {
+      "nume": "palton cu cordon",
+      "categorie": "jachete si paltoane",
+      "pret": "279.99 lei"
+    },
+    {
+      "nume": "palton cu gluga",
+      "categorie": "jachete si paltoane",
+      "pret": "329.99 lei"
+    }
+  ]
+}
