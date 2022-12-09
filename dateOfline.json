@@ -129,6 +129,11 @@
       "nume": "palton cu gluga",
       "categorie": "jachete si paltoane",
       "pret": "329.99 lei"
+    },
+        {
+      "nume": "tenisi de guma",
+      "categorie": "incaltaminte",
+      "pret": "329.99 lei"
     }
   ]
 }
